@@ -1,0 +1,15 @@
+{
+	"name": "HexSnap",
+	"title": "Improved Hex snapping",
+	"description": "This should make hexagonal snapping more sensible",
+	"version": "0.0.11",
+	"author": "UberV",
+	"scripts": ["scripts/nuSnap.js"],
+	"esmodules": ["scripts/honeycomb.min.js"],
+	"styles": ["./gridScale.css"],
+	"packs": [],
+	"minimumCoreVersion": "0.4.4",
+    "url": "https://github.com/UberV/scaleGrid/",
+    "manifest": "https://raw.githubusercontent.com/UberV/scaleGrid/master/module.json",
+    "download": "https://github.com/UberV/scaleGrid/archive/master.zip"
+}
