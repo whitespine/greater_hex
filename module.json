@@ -2,14 +2,14 @@
 	"name": "HexSnap",
 	"title": "Improved Hex snapping",
 	"description": "This should make hexagonal snapping more sensible",
-	"version": "0.0.11",
-	"author": "UberV",
+	"version": "0.0.1",
+	"author": "WHITESPINE",
 	"scripts": ["scripts/nuSnap.js"],
 	"esmodules": ["scripts/honeycomb.min.js"],
-	"styles": ["./gridScale.css"],
+	"styles": [],
 	"packs": [],
 	"minimumCoreVersion": "0.4.4",
-    "url": "https://github.com/UberV/scaleGrid/",
-    "manifest": "https://raw.githubusercontent.com/UberV/scaleGrid/master/module.json",
-    "download": "https://github.com/UberV/scaleGrid/archive/master.zip"
+	"url": "https://github.com/whitespine/greater_hex",
+	"manifest": "https://raw.githubusercontent.com/whitespine/greater_hex/master/module.json",
+	"download": "https://github.com/whitespine/greater_hex/archive/master.zip"
 }
