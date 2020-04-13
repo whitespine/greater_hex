@@ -2,7 +2,7 @@
 	"name": "HexSnap",
 	"title": "Improved Hex snapping",
 	"description": "This should make hexagonal snapping more sensible",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "WHITESPINE",
 	"scripts": ["scripts/nuSnap.js"],
 	"esmodules": ["scripts/honeycomb.min.js"],
